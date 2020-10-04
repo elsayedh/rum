@@ -41,7 +41,7 @@
 			</tree>
 		</field>
 	</record>
-
+	<!-- 
 	<record id="action_res_branch_form" model="ir.actions.act_window">
 		<field name="name">Branch</field>
 		<field name="res_model">res.branch</field>
@@ -52,7 +52,7 @@
 		id="menu_action_res_branch"
 		parent="base.menu_users"
 	/>
-
+-->
 
 	<record id="view_user_form_extended" model="ir.ui.view">
 		<field name="name">res.user.form.extended</field>
