@@ -62,8 +62,9 @@
 			<group name="preferences" position="before">
 			<group>
 				<group colspan="4" string='Allowed Branches'>
-					<field name="branch_ids"  widget="many2many_tags"/>
+						<!-- <field name="branch_ids"  widget="many2many_tags"/>
 					<field name="branch_id" options="{'no_create': True}" domain="[('id','in',branch_ids)]"/>
+					-->
 					<field name="is_branch_user" invisible="1"/>
 				</group>
 			</group>
