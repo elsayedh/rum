@@ -3,7 +3,7 @@
 <data>
 
 	<record model="ir.module.category" id="module_branch_management">
-		<field name="name">Branch</field>
+		<field name="name">Branch POS</field>
 		<field name="sequence">11</field>
 	</record>
 	<record id="group_branch_user" model="res.groups">
